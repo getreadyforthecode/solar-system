@@ -14,7 +14,7 @@ spec:
   template:
     metadata:
       labels:
-        app: solar-system
+        app: solar-system-test
     spec:
       containers:
       - image: _{_IMAGE_}_
